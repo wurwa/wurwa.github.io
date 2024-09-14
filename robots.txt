@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wurwa.github.io/sIm/sitemap.sIm.gz
